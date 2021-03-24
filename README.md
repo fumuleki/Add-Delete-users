@@ -1,7 +1,7 @@
-# Creation User
+# Creation-User
 
-Il s'agit d'un script qui va automatiser une taches de créations utilisateurs dans le serveur ou système.
-Parceque créer un utilisateur via la ligne de commande sous Linux est une tâche fastidieuse. Chaque fois que quelqu'un rejoint votre organisation et que vous devez taper une longue commande Linux plutôt que de le faire, vous pouvez créer un script python qui peut vous demander le nom d'utilisateur et le mot de passe et créer cet utilisateur pour vous.
+Il s'agit d'un script qui permet d'automatiser certaines taches sur la création des utilisateurs dans un serveur ou système.
+Parceque créer un utilisateur via la ligne de commande sous Linux est une tâche fastidieuse. Chaque fois que quelqu'un rejoint votre entreprise et que vous devez taper une longue commande Linux plutôt que de le faire, vous pouvez créer un script python qui peut automatiser la tache, vous demander le nom d'utilisateur et le mot de passe et créer cet utilisateur pour vous.
 
 # Exemples:
 
