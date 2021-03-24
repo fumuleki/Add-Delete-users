@@ -1,4 +1,7 @@
 # Add-Delete-users
+
+# Add users
+
 Il s'agit d'un script qui va automatiser des taches de créations utilisateurs.
 Parceque créer un utilisateur via la ligne de commande sous Linux est une tâche fastidieuse. Chaque fois que quelqu'un rejoint votre organisation et que vous devez taper une longue commande Linux plutôt que de le faire, vous pouvez créer un script python qui peut vous demander le nom d'utilisateur et le mot de passe et créer cet utilisateur pour vous.
 
@@ -41,6 +44,7 @@ Après avoir créé avec succès les utilisateurs, utilisez cette commande pour 
        
        
        
+# Delete User
 Supprimer un utilisateur de votre système ou serveur via un script python est une tâche très simple. Il vous suffit de passer le nom d'utilisateur de l'utilisateur et le script supprimera les détails et tous les fichiers de cet utilisateur.Ce script python utilise la commande userdel Linux pour supprimer l'utilisateur.Vous pouvez directement utiliser la commande userdel si vous vous souvenez de la commande mais si vous ne le faites pas alors le script facilite la suppression de l'utilisateur.
 
 Input:
