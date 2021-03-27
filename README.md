@@ -8,6 +8,7 @@ Parceque créer un utilisateur via la ligne de commande sous Linux est une tâch
  - Input : 
  - Enter Username : Cedrick
  - Password: ****
+ - confirm password: ****
 
 # Ci-dessous le code Python
 
